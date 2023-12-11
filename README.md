@@ -2,7 +2,7 @@
 
 I explain this in the pytorch_diffusion notebook, but basically I ran into a lot of issues trying to work with text diffusion and realized I did not have the theoretical or practical understanding of diffusion I needed to learn anything from working with them. So instead I decided to implement continuous denoising diffusion in pytorch without the help of any fancy diffusion libraries or repos. I hoped it would help me learn a better understanding of the process, that I could apply to text generation later, and it certainly did.
 
-I was also confused by the optional assignment on blackboard, didn't know if that was a final project thing so I tossed my code for that in here as well. I was able to get around 88% accuracy, which was disapointing. I want to know what the approach that got over 90% was.
+I was also confused by the optional assignment on blackboard, didn't know if that was a final project thing so I tossed my code for that in here as well. I was able to get around 88% accuracy, which was disapointing. Scalling up the efficient net I use along with the image size provides a bonus but that didn't seem like a great solution (shouldn't need 20M+ parameters). The B0 model does well enough. I want to know what the approach that got over 90% was.
 
 KEEPING BELOW FOR CONTINUITY------
 
