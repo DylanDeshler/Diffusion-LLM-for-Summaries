@@ -5,6 +5,7 @@ I explain this in the pytorch_diffusion notebook, but basically I ran into a lot
 I was also confused by the optional assignment on blackboard, didn't know if that was a final project thing so I tossed my code for that in here as well (train.py). I was able to get around 88% accuracy, which was disapointing. Scalling up the efficient net I use along with the image size provides a bonus but that didn't seem like a great solution (shouldn't need 20M+ parameters). The B0 model does well enough. I want to know what the approach that got over 90% was.
 
 The other scripts are related to diffusion LLMs, you do not need to look at them.
+
 KEEPING BELOW FOR CONTINUITY------
 
 # Diffusion-LLM-for-Summaries
