@@ -32,6 +32,7 @@ sources:
 https://github.com/XiangLi1999/Diffusion-LM
 https://keras.io/examples/nlp/t5_hf_summarization/
 https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/t5_hf_summarization.ipynb
+https://arxiv.org/pdf/2310.17680v1.pdf
 
 The CodeFusion paper has a substantial amount of information about training the full encoder-
 diffusion-decoder network and finding optimal hyperparameters for generating good results, like 
